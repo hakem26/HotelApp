@@ -1,0 +1,10 @@
+D:\hkm\projects\C#\HotelApp\HotelApp\HotelAppDB\bin\Debug\HotelAppDB.dacpac
+D:\hkm\projects\C#\HotelApp\HotelApp\HotelAppDB\bin\Debug\HotelAppDB.dll
+D:\hkm\projects\C#\HotelApp\HotelApp\HotelAppDB\bin\Debug\HotelAppDB.pdb
+D:\hkm\projects\C#\HotelApp\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.sqlproj.AssemblyReference.cache
+D:\hkm\projects\C#\HotelApp\HotelApp\HotelAppDB\obj\Debug\Model.xml
+D:\hkm\projects\C#\HotelApp\HotelApp\HotelAppDB\obj\Debug\refactor.xml
+D:\hkm\projects\C#\HotelApp\HotelApp\HotelAppDB\obj\Debug\postdeploy.sql
+D:\hkm\projects\C#\HotelApp\HotelApp\HotelAppDB\obj\Debug\predeploy.sql
+D:\hkm\projects\C#\HotelApp\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.dll
+D:\hkm\projects\C#\HotelApp\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.pdb
