@@ -180,7 +180,7 @@
 								<Element Type="SqlTypeSpecifier">
 									<Relationship Name="Type">
 										<Entry>
-											<References ExternalSource="BuiltIns" Name="[datetime]" />
+											<References ExternalSource="BuiltIns" Name="[date]" />
 										</Entry>
 									</Relationship>
 								</Element>
@@ -196,7 +196,7 @@
 								<Element Type="SqlTypeSpecifier">
 									<Relationship Name="Type">
 										<Entry>
-											<References ExternalSource="BuiltIns" Name="[datetime]" />
+											<References ExternalSource="BuiltIns" Name="[date]" />
 										</Entry>
 									</Relationship>
 								</Element>
@@ -515,6 +515,115 @@
 					<References ExternalSource="BuiltIns" Name="[dbo]" />
 				</Entry>
 			</Relationship>
+		</Element>
+		<Element Type="SqlProcedure" Name="[dbo].[spRoomTypes_GetAvailableTypes]">
+			<Property Name="BodyScript">
+				<Value><![CDATA[
+BEGIN
+	set nocount on;
+
+select t.Id, t.Title, t.Description, t.Price
+from dbo.Rooms r
+inner join dbo.RoomTypes t on  t.Id = r.RoomTypeId
+where r.Id not in (
+select b.RoomId
+from dbo.Bookings b
+where (@startDate < b.StartDate and @endDate > b.EndDate) 
+	or (b.StartDate <= @startDate and @endDate < b.EndDate)
+	or (b.StartDate <= @startDate and  @startDate < b.EndDate)
+)
+group by t.Id, t.Title, t.Description, t.Price
+
+END]]></Value>
+			</Property>
+			<Property Name="IsAnsiNullsOn" Value="True" />
+			<Relationship Name="BodyDependencies">
+				<Entry>
+					<References Name="[dbo].[Rooms]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[RoomTypes]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[RoomTypes].[Id]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Rooms].[RoomTypeId]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[RoomTypes].[Title]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[RoomTypes].[Description]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[RoomTypes].[Price]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Rooms].[Id]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Bookings]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Bookings].[RoomId]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[spRoomTypes_GetAvailableTypes].[@startDate]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Bookings].[StartDate]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[spRoomTypes_GetAvailableTypes].[@endDate]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Bookings].[EndDate]" />
+				</Entry>
+			</Relationship>
+			<Relationship Name="Parameters">
+				<Entry>
+					<Element Type="SqlSubroutineParameter" Name="[dbo].[spRoomTypes_GetAvailableTypes].[@startDate]">
+						<Relationship Name="Type">
+							<Entry>
+								<Element Type="SqlTypeSpecifier">
+									<Relationship Name="Type">
+										<Entry>
+											<References ExternalSource="BuiltIns" Name="[date]" />
+										</Entry>
+									</Relationship>
+								</Element>
+							</Entry>
+						</Relationship>
+					</Element>
+				</Entry>
+				<Entry>
+					<Element Type="SqlSubroutineParameter" Name="[dbo].[spRoomTypes_GetAvailableTypes].[@endDate]">
+						<Relationship Name="Type">
+							<Entry>
+								<Element Type="SqlTypeSpecifier">
+									<Relationship Name="Type">
+										<Entry>
+											<References ExternalSource="BuiltIns" Name="[date]" />
+										</Entry>
+									</Relationship>
+								</Element>
+							</Entry>
+						</Relationship>
+					</Element>
+				</Entry>
+			</Relationship>
+			<Relationship Name="Schema">
+				<Entry>
+					<References ExternalSource="BuiltIns" Name="[dbo]" />
+				</Entry>
+			</Relationship>
+			<Annotation Type="SysCommentsObjectAnnotation">
+				<Property Name="Length" Value="532" />
+				<Property Name="StartLine" Value="1" />
+				<Property Name="StartColumn" Value="1" />
+				<Property Name="HeaderContents" Value="CREATE PROCEDURE [dbo].[spRoomTypes_GetAvailableTypes]&#xD;&#xA;&#x9;@startDate date,&#xD;&#xA;&#x9;@endDate date&#xD;&#xA;AS" />
+			</Annotation>
 		</Element>
 	</Model>
 </DataSchemaModel>
