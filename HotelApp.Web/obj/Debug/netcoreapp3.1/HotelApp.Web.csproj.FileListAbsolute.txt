@@ -1,0 +1,100 @@
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\bin\Debug\netcoreapp3.1\appsettings.json
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\bin\Debug\netcoreapp3.1\HotelApp.Web.exe
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\bin\Debug\netcoreapp3.1\HotelApp.Web.deps.json
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\bin\Debug\netcoreapp3.1\HotelApp.Web.runtimeconfig.json
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\bin\Debug\netcoreapp3.1\HotelApp.Web.runtimeconfig.dev.json
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\bin\Debug\netcoreapp3.1\HotelApp.Web.dll
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\bin\Debug\netcoreapp3.1\HotelApp.Web.pdb
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\bin\Debug\netcoreapp3.1\HotelApp.Web.Views.dll
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\bin\Debug\netcoreapp3.1\HotelApp.Web.Views.pdb
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.csproj.AssemblyReference.cache
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.AssemblyInfoInputs.cache
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.AssemblyInfo.cs
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.csproj.CoreCompileInputs.cache
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.RazorAssemblyInfo.cache
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.RazorAssemblyInfo.cs
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\staticwebassets\HotelApp.Web.StaticWebAssets.Manifest.cache
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\staticwebassets\HotelApp.Web.StaticWebAssets.Pack.cache
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.HotelApp.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.HotelApp.Web.props
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.HotelApp.Web.props
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.HotelApp.Web.props
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.TagHelpers.input.cache
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.TagHelpers.output.cache
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.RazorCoreGenerate.cache
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.RazorTargetAssemblyInfo.cache
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.RazorTargetAssemblyInfo.cs
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.Views.pdb
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.csproj.CopyComplete
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.dll
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.pdb
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.genruntimeconfig.cache
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\appsettings.json
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\HotelApp.Web.exe
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\HotelApp.Web.deps.json
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\HotelApp.Web.runtimeconfig.json
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\HotelApp.Web.runtimeconfig.dev.json
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\HotelApp.Web.dll
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\HotelApp.Web.pdb
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\HotelApp.Web.Views.dll
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\HotelApp.Web.Views.pdb
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\HotelAppLibrary.dll
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\HotelAppLibrary.pdb
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.csproj.AssemblyReference.cache
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.AssemblyInfoInputs.cache
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.AssemblyInfo.cs
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.csproj.CoreCompileInputs.cache
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.RazorAssemblyInfo.cache
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.RazorAssemblyInfo.cs
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\staticwebassets\HotelApp.Web.StaticWebAssets.Manifest.cache
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\staticwebassets\HotelApp.Web.StaticWebAssets.Pack.cache
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.HotelApp.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.HotelApp.Web.props
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.HotelApp.Web.props
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.HotelApp.Web.props
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.TagHelpers.input.cache
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.TagHelpers.output.cache
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.RazorCoreGenerate.cache
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.RazorTargetAssemblyInfo.cache
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.RazorTargetAssemblyInfo.cs
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.Views.pdb
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.csproj.CopyComplete
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.dll
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.pdb
+D:\hkm\projects\C#\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.genruntimeconfig.cache

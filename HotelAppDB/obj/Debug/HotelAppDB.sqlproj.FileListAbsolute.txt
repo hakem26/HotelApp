@@ -1,0 +1,20 @@
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelAppDB\bin\Debug\HotelAppDB.dacpac
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelAppDB\bin\Debug\HotelAppDB.dll
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelAppDB\bin\Debug\HotelAppDB.pdb
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelAppDB\obj\Debug\HotelAppDB.sqlproj.AssemblyReference.cache
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelAppDB\obj\Debug\HotelAppDB.dll
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelAppDB\obj\Debug\HotelAppDB.pdb
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelAppDB\obj\Debug\Model.xml
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelAppDB\obj\Debug\refactor.xml
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelAppDB\obj\Debug\postdeploy.sql
+E:\hkm\PG\CSharp\iamtimcorey\09 - TimCorey_Foundation_in_Csharp_Hotel_Management_App_2020-11.part1\TimCorey Foundation in Csharp Hotel Management App 2020-11\code\Module09Lesson26\HotelAppDB\obj\Debug\predeploy.sql
+D:\hkm\projects\C#\HotelApp\HotelAppDB\bin\Debug\HotelAppDB.dacpac
+D:\hkm\projects\C#\HotelApp\HotelAppDB\bin\Debug\HotelAppDB.dll
+D:\hkm\projects\C#\HotelApp\HotelAppDB\bin\Debug\HotelAppDB.pdb
+D:\hkm\projects\C#\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.sqlproj.AssemblyReference.cache
+D:\hkm\projects\C#\HotelApp\HotelAppDB\obj\Debug\Model.xml
+D:\hkm\projects\C#\HotelApp\HotelAppDB\obj\Debug\refactor.xml
+D:\hkm\projects\C#\HotelApp\HotelAppDB\obj\Debug\postdeploy.sql
+D:\hkm\projects\C#\HotelApp\HotelAppDB\obj\Debug\predeploy.sql
+D:\hkm\projects\C#\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.dll
+D:\hkm\projects\C#\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.pdb

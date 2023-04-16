@@ -1,0 +1,45 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[Bookings]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Bookings].[GuestsId] is being dropped, data loss could occur.
+       The column [dbo].[Bookings].[GuestId] on table [dbo].[Bookings] must be added, but the column has no default value and
+         does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must
+         either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults
+         as a deployment option.
+       The type for column RoomNumber in table [dbo].[Rooms] is currently  NCHAR (10) NOT NULL but is being changed to  VARCHAR
+         (10) NOT NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible with type 
+         VARCHAR (10) NOT NULL.
+       The type for column Title in table [dbo].[RoomTypes] is currently  NVARCHAR (100) NOT NULL but is being changed to 
+         NVARCHAR (50) NOT NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible
+         with type  NVARCHAR (50) NOT NULL.
+
+** User actions
+     Recreate table
+       [dbo].[Bookings] (Table)
+     Alter
+       [dbo].[Rooms] (Table)
+       [dbo].[RoomTypes] (Table)
+       [dbo].[spBookings_Insert] (Procedure)
+       [dbo].[spBookings_Search] (Procedure)
+     Create
+       [dbo].[FK_Bookings_Rooms] (Foreign Key)
+       [dbo].[FK_Bookings_Guests] (Foreign Key)
+       [dbo].[FK_Rooms_RoomTypes] (Foreign Key)
+       [dbo].[spBookings_CheckIn] (Procedure)
+
+** Supporting actions
+     Refresh
+       [dbo].[spRooms_GetAvailableRooms] (Procedure)
+       [dbo].[spRoomTypes_GetAvailableTypes] (Procedure)
+
+The column [dbo].[Bookings].[GuestsId] is being dropped, data loss could occur.
+The column [dbo].[Bookings].[GuestId] on table [dbo].[Bookings] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The type for column RoomNumber in table [dbo].[Rooms] is currently  NCHAR (10) NOT NULL but is being changed to  VARCHAR (10) NOT NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible with type  VARCHAR (10) NOT NULL.
+The type for column Title in table [dbo].[RoomTypes] is currently  NVARCHAR (100) NOT NULL but is being changed to  NVARCHAR (50) NOT NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible with type  NVARCHAR (50) NOT NULL.
+If this deployment is executed, changes to [dbo].[Bookings] might introduce run-time errors in [dbo].[spBookings_CheckedIn].
+
